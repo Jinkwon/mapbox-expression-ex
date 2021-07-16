@@ -1,5 +1,7 @@
 # interpolate
 
+
+## interpolate with linear
 ```
 'circle-radius': [
   'interpolate',
