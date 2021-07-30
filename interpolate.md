@@ -1,6 +1,5 @@
 # interpolate
 
-
 ## interpolate with linear
 ```
 'circle-radius': [
@@ -13,7 +12,7 @@
   100,
 ],
 ```
-              
+
 ## interpolate with outer vars
 coverageRatio is outer variables
 ```
